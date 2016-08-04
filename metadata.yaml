@@ -1,0 +1,32 @@
+_repo: The-Cleveland-Era--A-Chronicle-of-the-New-Order-in-Politics_3041
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ford, Henry Jones
+    alias: Ford, Henry J. (Henry Jones)
+    birthdate: 1851
+    deathdate: 1925
+    gutenberg_agent_id: '5836'
+    url: http://www.gutenberg.org/2009/agents/5836
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Jones_Ford
+description: Chronicles of America series; v. 44
+gutenberg_bookshelf:
+- United States
+- Children's History
+gutenberg_issued: '2002-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3041'
+  lccn: '19012619'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1893-1897'
+- !lcsh 'United States -- Politics and government -- 1885-1889'
+- !lcsh 'Cleveland, Grover, 1837-1908'
+- !lcc 'E660'
+- GITenberg
+title: 'The Cleveland Era: A Chronicle of the New Order in Politics'
+url: http://www.gutenberg.org/ebooks/3041
